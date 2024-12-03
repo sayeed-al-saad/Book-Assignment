@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "/public/kindpng_1064993.png",
+      "review": "A masterful psychological thriller with an unforgettable twist.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Thriller",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 2,
+      "bookName": "Atomic Habits",
+      "author": "James Clear",
+      "image": "/public/kindpng_4022054 1.png",
+      "review": "A transformative guide to building good habits and breaking bad ones.",
+      "totalPages": 320,
+      "rating": 4.8,
+      "category": "Self-help",
+      "tags": ["Productivity", "Personal Development"],
+      "publisher": "Avery",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 3,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "/public/kindpng_7318921.png",
+      "review": "An enchanting tale that set the foundation for epic fantasy.",
+      "totalPages": 310,
+      "rating": 4.7,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Classic"],
+      "publisher": "George Allen & Unwin",
+      "yearOfPublishing": 1937
+    },
+    {
+      "bookId": 4,
+      "bookName": "Becoming",
+      "author": "Michelle Obama",
+      "image": "/public/kindpng_5624060 1.png",
+      "review": "A deeply personal memoir that inspires and empowers readers.",
+      "totalPages": 448,
+      "rating": 4.9,
+      "category": "Biography",
+      "tags": ["Inspiration", "Memoir"],
+      "publisher": "Crown Publishing Group",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 5,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "/public/kindpng_81724 1.png",
+      "review": "A chilling dystopian novel that remains eerily relevant.",
+      "totalPages": 328,
+      "rating": 4.6,
+      "category": "Dystopian",
+      "tags": ["Political", "Classic"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 6,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "/public/kindpng_2193744 1.png",
+      "review": "A powerful exploration of justice, morality, and compassion.",
+      "totalPages": 281,
+      "rating": 4.9,
+      "category": "Fiction",
+      "tags": ["Classic", "Social Issues"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    }
+  ]
+  
